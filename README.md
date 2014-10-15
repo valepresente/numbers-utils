@@ -1,7 +1,7 @@
 NumbersUtils.js
 ===============
 
-A great coffee utils to work with numbers
+A great coffee utils to work with numbers. 
 
 Signatures
 ----------
@@ -30,4 +30,7 @@ numberUtils.toFloat '3,000.00'
 numberUtils.toCurrency 21202001201.2, 4
 -> '21,202,001,201.20000'
 ```
-    
+
+#### Contributors
+* [@igorescobar](https://github.com/igorescobar)
+* [@dgmike](https://github.com/dgmike)
