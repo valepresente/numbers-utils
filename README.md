@@ -44,6 +44,11 @@ To compile and distribute version of NumberUtils, some pré-requisites needle:
 
 To compile source, just `make deploy` must be executed.
 
+### Testing
+
+[`jasminejs`](http://jasmine.github.io/) is used as BDD suite. To run all tests
+just execute `make test` or `npm test`.
+
 Contributors
 ------------
 
