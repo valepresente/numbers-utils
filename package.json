@@ -1,0 +1,42 @@
+{
+  "name": "numbers-utils",
+  "version": "0.0.1",
+  "description": "A great coffee utils to work with numbers",
+  "scripts": {
+    "test": "make test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/valepresente/numbers-utils.js.git"
+  },
+  "keywords": [
+    "numbers",
+    "toFixed",
+    "float",
+    "amount"
+  ],
+  "author": {
+    "name": "Michael Granados",
+    "email": "michael@valepresente.com.br"
+  },
+  "maintainers": [
+    {
+      "name": "Michael Granados",
+      "email": "michael@valepresente.com.br"
+    },
+    {
+      "name": "Igor Escobar",
+      "email": "igor@valepresente.com.br"
+    }
+  ],
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/valepresente/numbers-utils.js/issues"
+  },
+  "homepage": "https://github.com/valepresente/numbers-utils.js",
+  "devDependencies": {
+    "coffee-script": "^1.8.0",
+    "jasmine-node": "2.0.0",
+    "uglify-js": "^2.4.15"
+  }
+}
