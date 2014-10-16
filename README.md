@@ -31,6 +31,21 @@ numberUtils.toCurrency 21202001201.2, 4
 -> '21,202,001,201.20000'
 ```
 
-#### Contributors
+Developers
+----------
+
+To compile and distribute version of NumberUtils, some pré-requisites needle:
+
+* make
+* nodejs
+* npm
+* coffee-script `npm install -g coffee-script`
+* uglyfi `npm install -g uglify-js`
+
+To compile source, just `make deploy` must be executed.
+
+Contributors
+------------
+
 * [@igorescobar](https://github.com/igorescobar)
 * [@dgmike](https://github.com/dgmike)
