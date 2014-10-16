@@ -9,3 +9,6 @@ create_minified_version:
 
 clear_dist:
 	rm -rf ./dist
+
+test:
+	./node_modules/jasmine-node/bin/jasmine-node --coffee spec

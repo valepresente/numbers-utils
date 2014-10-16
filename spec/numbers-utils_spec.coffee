@@ -1,3 +1,5 @@
+NumbersUtils = require('../source/numbers-utils').NumbersUtils
+
 describe 'NumbersUtils', ->
   numberUtils = null
 
@@ -45,7 +47,7 @@ describe 'NumbersUtils', ->
     it 'must accept string', ->
       result = numberUtils.toCurrency '320'
       expect(result).toBe '320.00'
-      
+
     it 'must accept precision as second argument', ->
       result = numberUtils.toCurrency 320.324, 4
       expect(result).toBe '320.3240'

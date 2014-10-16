@@ -29,3 +29,4 @@ class root.NumbersUtils
     # from http://blog.stevenlevithan.com/archives/commafy-numbers
     amount.replace /(^|[^\w.])(\d{4,})/g,
       ($0, $1, $2) -> $1 + $2.replace /\d(?=(?:\d\d\d)+(?!\d))/g, "$&,"
+
