@@ -9,6 +9,7 @@ Signatures
 First, the programmer needs to instanciate `NumbersUtils` class.
 
 ```coffee
+NumbersUtils = require 'numbers-utils'
 numberUtils = new NumberUtils
 ```
 
