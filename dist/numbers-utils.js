@@ -1,5 +1,9 @@
 (function() {
-  this.NumbersUtils = (function() {
+  var root;
+
+  root = typeof exports !== "undefined" && exports !== null ? exports : this;
+
+  root.NumbersUtils = (function() {
     function NumbersUtils() {}
 
     NumbersUtils.prototype._round = function(amount, digits) {

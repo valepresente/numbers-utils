@@ -1,4 +1,6 @@
-class @NumbersUtils
+root = exports ? this
+
+class root.NumbersUtils
   # from http://stackoverflow.com/a/22477069/1129927
   _round: (amount, digits) ->
     digits = Math.floor(digits)
