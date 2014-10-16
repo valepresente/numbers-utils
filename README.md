@@ -47,5 +47,6 @@ To compile source, just `make deploy` must be executed.
 Contributors
 ------------
 
-* [@igorescobar](https://github.com/igorescobar)
-* [@dgmike](https://github.com/dgmike)
+![Igor Escobar](https://avatars0.githubusercontent.com/u/24032?v=2&s=32)  [@igorescobar](https://github.com/igorescobar)
+
+![Michael Granados](https://avatars0.githubusercontent.com/u/94767?v=2&s=32) [@dgmike](https://github.com/dgmike)
