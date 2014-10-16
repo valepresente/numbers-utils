@@ -56,3 +56,6 @@ Contributors
 ![Igor Escobar](https://avatars0.githubusercontent.com/u/24032?v=2&s=32)  [@igorescobar](https://github.com/igorescobar)
 
 ![Michael Granados](https://avatars0.githubusercontent.com/u/94767?v=2&s=32) [@dgmike](https://github.com/dgmike)
+
+
+Copyright (c) 2014 Vale Presente. This software is licensed under the MIT License.
