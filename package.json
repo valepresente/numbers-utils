@@ -5,6 +5,7 @@
   "scripts": {
     "test": "make test"
   },
+  "main": "index.js",
   "repository": {
     "type": "git",
     "url": "https://github.com/valepresente/numbers-utils.js.git"
